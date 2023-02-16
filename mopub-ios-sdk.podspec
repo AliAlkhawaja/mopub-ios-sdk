@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name             = 'mopub-ios-sdk'
-  spec.module_name      = 'MoPub'
+  spec.module_name      = 'MoPubSDK'
   spec.version          = '5.14.1-pa'
   spec.license          = { :type => 'New BSD', :file => 'LICENSE' }
   spec.homepage         = 'https://github.com/mopub/mopub-ios-sdk'
